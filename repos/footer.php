@@ -17,9 +17,10 @@
 
                         <img src="img/bg-img/footer.jpg" alt="">
                         <div class="footer-logo my-4">
-                            <img src="img/core-img/logo.png" alt=""><span>MCLD</span>
+                            <img src="img/core-img/logo.png" alt="">
+                            <!-- <span>MCLD</span> -->
                         </div>
-                        <p>Integer nec bibendum lacus. Suspen disse dictum enim sit amet libero males uada feugiat. Praesent malesuada.</p>
+                        <p>We are the best land Developers around Nairobi.</p>
                     </div>
                 </div>
 
@@ -40,9 +41,9 @@
                         </div>
                         <!-- Address -->
                         <div class="address">
-                            <h6><img src="img/icons/phone-call.png" alt=""> +45 677 8993000 223</h6>
-                            <h6><img src="img/icons/envelope.png" alt=""> office@template.com</h6>
-                            <h6><img src="img/icons/location.png" alt=""> Main Str. no 45-46, b3, 56832, Los Angeles, CA</h6>
+                            <h6><img src="img/icons/phone-call.png" alt=""> +254 701 333 999 / +254 701 123 456</h6>
+                            <h6><img src="img/icons/envelope.png" alt=""> contact@mcld.co.ke</h6>
+                            <h6><img src="img/icons/location.png" alt=""> Main Str. Nairobi, Kenya</h6>
                         </div>
                     </div>
                 </div>
