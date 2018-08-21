@@ -34,17 +34,16 @@ require 'repos/header.php';
                                 <a href="#">March 09, 2018</a>
                             </div>
                             <!-- Headline -->
-                            <a href="#" class="headline">How to get the best deal for your house</a>
+                            <a href="#" class="headline">How to get the best deal for your Land/Plot</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
                                 <p>By <a href="#">Admin</a> | in <a href="#">Uncategorized</a> | <a href="#">2 Comments</a></p>
                             </div>
-                            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit amet tellus blandit. Etiam nec odiomattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mat tis effic iturut magna. Curabitur rhoncus auctor eleifend.</p>
+                            <p>We knowthis is our best offer for this year, and you need to grab one for yourself.</p>
                             <!-- Read More btn -->
-                            <a href="#" class="btn south-btn">Read More</a>
+                            <a href="#" class="btn south-btn">Read More</a> <a href="#" class="btn south-btn">Leave Comment</a>
                         </div>
                     </div>
-                   
                     <!-- Single Blog Area -->
                     <div class="single-blog-area mb-50">
                         <!-- Post Thumbnail -->
@@ -58,14 +57,14 @@ require 'repos/header.php';
                                 <a href="#">March 09, 2018</a>
                             </div>
                             <!-- Headline -->
-                            <a href="#" class="headline">How to get the best deal for your house</a>
+                            <a href="#" class="headline">How to get the best deal for your Land/Plot</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
                                 <p>By <a href="#">Admin</a> | in <a href="#">Uncategorized</a> | <a href="#">2 Comments</a></p>
                             </div>
-                            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit amet tellus blandit. Etiam nec odiomattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mat tis effic iturut magna. Curabitur rhoncus auctor eleifend.</p>
+                            <p>We knowthis is our best offer for this year, and you need to grab one for yourself.</p>
                             <!-- Read More btn -->
-                            <a href="#" class="btn south-btn">Read More</a>
+                            <a href="#" class="btn south-btn">Read More</a> <a href="#" class="btn south-btn">Leave Comment</a>
                         </div>
                     </div>
                    
@@ -82,14 +81,14 @@ require 'repos/header.php';
                                 <a href="#">March 09, 2018</a>
                             </div>
                             <!-- Headline -->
-                            <a href="#" class="headline">How to get the best deal for your house</a>
+                            <a href="#" class="headline">How to get the best deal for your Land/Plot</a>
                             <!-- Post Meta -->
                             <div class="post-meta">
                                 <p>By <a href="#">Admin</a> | in <a href="#">Uncategorized</a> | <a href="#">2 Comments</a></p>
                             </div>
-                            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit amet tellus blandit. Etiam nec odiomattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mat tis effic iturut magna. Curabitur rhoncus auctor eleifend.</p>
+                            <p>We knowthis is our best offer for this year, and you need to grab one for yourself.</p>
                             <!-- Read More btn -->
-                            <a href="#" class="btn south-btn">Read More</a>
+                            <a href="#" class="btn south-btn">Read More</a> <a href="#" class="btn south-btn">Leave Comment</a>
                         </div>
                     </div>
                 </div>
@@ -105,31 +104,7 @@ require 'repos/header.php';
                             </form>
                         </div>
 
-                        <!-- Catagories Widget -->
-                        <div class="south-catagories-card mb-70">
-                            <h5>Archive</h5>
-                            <ul class="catagories-menu">
-                                <li><a href="#">Radiology</a></li>
-                                <li><a href="#">Cardiology</a></li>
-                                <li><a href="#">Gastroenterology</a></li>
-                                <li><a href="#">Neurology</a></li>
-                                <li><a href="#">General surgery</a></li>
-                            </ul>
-                        </div>
-
-                        <!-- Catagories Widget -->
-                        <div class="south-catagories-card mb-70">
-                            <h5>Categories</h5>
-                            <ul class="catagories-menu">
-                                <li><a href="#">Radiology</a></li>
-                                <li><a href="#">Cardiology</a></li>
-                                <li><a href="#">Gastroenterology</a></li>
-                                <li><a href="#">Neurology</a></li>
-                                <li><a href="#">General surgery</a></li>
-                            </ul>
-                        </div>
-
-                        <!-- Catagories Widget -->
+                       
                         <div class="featured-properties-slides owl-carousel">
 
                             <!-- Single Slide -->
@@ -142,71 +117,58 @@ require 'repos/header.php';
                                         <span>For Sale</span>
                                     </div>
                                     <div class="list-price">
-                                        <p>$945 679</p>
+                                        <p>Ksh. 945 679</p>
                                     </div>
                                 </div>
                                 <!-- Property Content -->
                                 <div class="property-content">
-                                    <h5>Villa in Los Angeles</h5>
-                                    <p class="location"><img src="img/icons/location.png" alt="">Upper Road 3411, no.34 CA</p>
-                                    <p>Integer nec bibendum lacus. Suspendisse dictum enim sit amet libero malesuada.</p>
+                                    <h5>Our top rated property</h5>
+                                    <p class="location"><img src="img/icons/location.png" alt="">Nairobi CBD</p>
+                                    <p>This is our first blog.</p>
                                     <div class="property-meta-data d-flex align-items-end justify-content-between">
                                         <div class="new-tag">
                                             <img src="img/icons/new.png" alt="">
                                         </div>
-                                        <div class="bathroom">
-                                            <img src="img/icons/bathtub.png" alt="">
-                                            <span>2</span>
-                                        </div>
-                                        <div class="garage">
-                                            <img src="img/icons/garage.png" alt="">
-                                            <span>2</span>
-                                        </div>
+                                        
                                         <div class="space">
                                             <img src="img/icons/space.png" alt="">
-                                            <span>120 sq ft</span>
+                                            <span>1 Acre</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- Single Slide -->
-                            <div class="single-featured-property">
+                             <!-- Single Slide -->
+                             <div class="single-featured-property">
                                 <!-- Property Thumbnail -->
                                 <div class="property-thumb">
-                                    <img src="img/bg-img/feature2.jpg" alt="">
+                                    <img src="img/bg-img/feature1.jpg" alt="">
 
                                     <div class="tag">
                                         <span>For Sale</span>
                                     </div>
                                     <div class="list-price">
-                                        <p>$945 679</p>
+                                        <p>Ksh. 900 679</p>
                                     </div>
                                 </div>
                                 <!-- Property Content -->
                                 <div class="property-content">
-                                    <h5>Town House in Los Angeles</h5>
-                                    <p class="location"><img src="img/icons/location.png" alt="">Upper Road 3411, no.34 CA</p>
-                                    <p>Integer nec bibendum lacus. Suspendisse dictum enim sit amet libero malesuada.</p>
+                                    <h5>Our top rated property</h5>
+                                    <p class="location"><img src="img/icons/location.png" alt="">Nairobi CBD</p>
+                                    <p>This is our third blog.</p>
                                     <div class="property-meta-data d-flex align-items-end justify-content-between">
                                         <div class="new-tag">
                                             <img src="img/icons/new.png" alt="">
                                         </div>
-                                        <div class="bathroom">
-                                            <img src="img/icons/bathtub.png" alt="">
-                                            <span>2</span>
-                                        </div>
-                                        <div class="garage">
-                                            <img src="img/icons/garage.png" alt="">
-                                            <span>2</span>
-                                        </div>
+                                        
                                         <div class="space">
                                             <img src="img/icons/space.png" alt="">
-                                            <span>120 sq ft</span>
+                                            <span>1/2 Acres</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            
                         </div>
 
                     </div>

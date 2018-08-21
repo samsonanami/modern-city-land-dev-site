@@ -160,7 +160,7 @@ include 'repos/connect.php';
                 <div class="col-12">
                     <div class="section-heading wow fadeInUp" data-wow-delay="250ms">
                         <h2>Client testimonials</h2>
-                        <p>Suspendisse dictum enim sit amet libero malesuada feugiat.</p>
+                        <p>This is what Our hapy clients are saying.</p>
                     </div>
                 </div>
             </div>

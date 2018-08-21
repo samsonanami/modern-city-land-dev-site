@@ -598,12 +598,12 @@ img {
         @include trans-duration(500ms);
     }
     .searchbtn {
-        margin-left: 30px;
-        height: 90px;
-        line-height: 90px;
+        margin-left: 20px;
+        height: 70px;
+        line-height: 70px;
         background-color: transparent;
-        width: 90px;
-        text-align: center;
+        width: 50px;
+        text-align: right;
         @media #{$breakpoint-lg} {
             margin-left: 15px;
             width: 50px;

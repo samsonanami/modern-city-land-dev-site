@@ -51,7 +51,8 @@
                 <nav class="classy-navbar justify-content-between" id="southNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="index.php"><img style=" height:50px;" src="img/core-img/logo.png" alt=""><span><b>MCLD</b></span></a>
+                    <a class="nav-brand" href="index.php"><img style=" height:50px;" src="img/core-img/logo.png" alt="">
+		    <span style="width:20%; font-size:18px;"><b>Modern City Land Developers</b></span></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -91,6 +92,7 @@
                                             
                                     </ul>
                                 </li>
+                                <li><a href="blog.php">Blog</a></li>
                                 <li><a href="contact.php">Contacts</a></li>
                             </ul>
 
