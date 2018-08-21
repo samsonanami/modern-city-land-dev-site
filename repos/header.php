@@ -83,13 +83,14 @@
                                     </ul>
                                 </li>
                                 <li><a href="testimonials.php">Testimonials</a></li>
-                                <!-- <li><a href="#">Media</a>
+                                <li><a href="#">Media</a>
                                     <ul class="dropdown">
+                                            <li><a href="gallery-video.php">Video gallery</a></li>
                                             <li><a href="#">News & Blogs</a></li>
                                             <li><a href="#">Photo gallery</a></li>
-                                            <li><a href="#">Video gallery</a></li>
+                                            
                                     </ul>
-                                </li> -->
+                                </li>
                                 <li><a href="contact.php">Contacts</a></li>
                             </ul>
 

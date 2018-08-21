@@ -74,7 +74,9 @@ require 'repos/header.php';
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div id="googleMap" class="googleMap"></div>
+                    <div id="googleMap" class="googleMap">
+                    <div class="mapouter"><div class="gmap_canvas"><iframe width="1080" height="417" id="gmap_canvas" src="https://maps.google.com/maps?q=nairobi&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de">pureblack.de</a></div><style>.mapouter{text-align:right;height:417px;width:1080px;}.gmap_canvas {overflow:hidden;background:none!important;height:417px;width:1080px;}</style></div>
+                    </div>
                 </div>
             </div>
         </div>

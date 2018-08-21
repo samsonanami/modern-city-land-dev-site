@@ -48,7 +48,65 @@ require 'repos/header.php';
                 </div>
                 <!-- Testimonial right -->
                 <div class="col-12 col-lg-6">
-                
+                    <!-- <div class="section-heading wow fadeInUp" data-wow-delay="250ms">
+                        <h5>Client testimonials</h5>
+                        <p>These are comments from happy clients.</p>
+                    </div> -->
+                <div class="card" style="width: 100%;">
+                <div class="card-body">
+                   <!-- Single Testimonial Slide -->
+                    <div class="single-testimonial-slide text-center">
+                        <h5>Friendly Staff</h5>
+                        <p>Hi! I would like to appreciate the way you serve your clients. I really enjoyed being your client because of the amazing service i received from you.</p>
+
+                        <div class="testimonial-author-info">
+                            <img  class="rounded-circle" style="height:75px; width:75px;" src="img/bg-img/team2.jpg" alt="">
+                            <p>Marry Wairimu, <span>Customer</span></p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <div class="card" style="width: 100%;">
+                <div class="card-body">
+                   <!-- Single Testimonial Slide -->
+                    <div class="single-testimonial-slide text-center">
+                        <h5>Perfect Land/Plot for me</h5>
+                        <p>Hi! I would like to appreciate the way you serve your clients. I really enjoyed being your client because of the amazing service i received from you.</p>
+
+                        <div class="testimonial-author-info">
+                            <img class="rounded-circle" style="height:75px; width:75px;"  src="img/bg-img/team1.jpg" alt="">
+                            <p>Simon Waweru, <span>Customer</span></p>
+                        </div>   
+                    </div>
+                </div>
+                </div>
+                <div class="card" style="width: 100%;">
+                <div class="card-body">
+                   <!-- Single Testimonial Slide -->
+                    <div class="single-testimonial-slide text-center">
+                        <h5>Perfect Land/Plot for me</h5>
+                        <p>Hi! I would like to appreciate the way you serve your clients. I really enjoyed being your client because of the amazing service i received from you.</p>
+                        <div class="testimonial-author-info">
+                            <img  class="rounded-circle" style="height:75px; width:75px;" src="img/bg-img/team3.jpg" alt="">
+                            <p>Brian Omondi, <span>Customer</span></p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <div class="card" style="width: 100%;">
+                <div class="card-body">
+                   <!-- Single Testimonial Slide -->
+                    <div class="single-testimonial-slide text-center">
+                        <h5>Friendly Staff</h5>
+                        <p>Hi! I would like to appreciate the way you serve your clients. I really enjoyed being your client because of the amazing service i received from you.</p>
+
+                        <div class="testimonial-author-info">
+                            <img  class="rounded-circle" style="height:75px; width:75px;" src="img/bg-img/team2.jpg" alt="">
+                            <p>Marry Wairimu, <span>Customer</span></p>
+                        </div>
+                    </div>
+                </div>
+                </div>
                 </div>
             </div>
         </div>
